@@ -1,0 +1,2 @@
+How To Set Up GUI On Amazon EC2 Ubuntu server
+https://comtechies.com/how-to-set-up-gui-on-amazon-ec2-ubuntu-server.html
